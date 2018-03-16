@@ -11,6 +11,6 @@ module.exports = {
                 safe: true
             }
         },
-        uri: 'mongodb://heroku_9vsg8r85:e3bgu3gruodbmvcng408n1k3ik@ds147668.mlab.com:47668/heroku_9vsg8r85'
+        uri: 'mongodb://heroku_tp2n1k83:12rh4clmktrfcn57js71rpr2gt@ds215709.mlab.com:15709/heroku_tp2n1k83'
     }
 };
